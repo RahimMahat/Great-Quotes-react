@@ -8,6 +8,10 @@
 
 # production
 /build
+/.firebase
+firebase.json
+.firebaserc
+deployed app: https://react-http-25d02.firebaseapp.com/quotes
 
 # misc
 .DS_Store
